@@ -1,0 +1,18 @@
+body{
+    font-family: arial;
+    text-align: center;
+    margin-top: 100px;
+}
+.box{
+    border: 2px solid black;
+    padding: 20px;
+    display: inline-block;
+}
+input{
+    margin: 5px;
+    padding: 5px;
+}
+button{
+    margin-top: 10px;
+    padding: 5px 10px;
+}
